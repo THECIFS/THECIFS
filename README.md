@@ -58,6 +58,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/THECIFS/THECIFS/output/snake.svg" alt="Snake animation" />
 
 ###
