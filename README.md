@@ -41,33 +41,6 @@ Full Stack Developer with hands-on experience designing, optimizing and deployin
 
 **Management & Design:** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-## 💼 Experience
-
-**Tech Lead Jr — CGTHAM** · Oct 2026 – Present
-- Monitored project progress, managing changes and keeping the development team technically and operationally aligned.
-- Provided optimization and incident-resolution recommendations to keep the system stable.
-- Mentored a junior developer, improving their efficiency and establishing development best practices.
-- Wrote technical manuals, installation and administration guides, and user documentation to support scalability.
-
-**Full Stack Developer — CGTHAM** · Jan 2026 – Oct 2026
-- Designed and implemented scalable software architectures to improve performance, availability and maintainability.
-- Applied preventive security measures to mitigate vulnerabilities and harden the web infrastructure.
-- Produced detailed technical documentation to ease maintenance and codebase scalability.
-- *Stack: Node.js, React, PostgreSQL, Render*
-
-**Engineering & Technology Intern — Teteocan Technologies** · Aug 2025 – Jan 2026
-- Built responsive, user-focused interfaces in React Native to improve customer UX/UI.
-- Identified critical failure points in the system and implemented technical fixes to boost performance.
-- Integrated the **Stripe** payment gateway and designed the database architecture behind the business logic.
-- *Stack: Node.js, React Native, MongoDB, Stripe, Render*
-
-## 🚀 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**ONG ITO**](link) | Web platform for transparent donation management and fundraising for non-profits. I led the project, designed the backend architecture and modeled the database. | [Stack] |
-| [**ACCESSITO**](link) | Mobile system for automated, smart access control (student entry/exit) in schools, with a secure, low-latency backend. | [Stack] |
-
 ## 🎓 Education & certifications
 
 - 🎓 **B.Sc. in Computer Systems Engineering** — Instituto Tecnológico de Orizaba (2026)
